@@ -1,11 +1,10 @@
-#  RDP Windows Gratis Durasi 1 Jam Punya Mas Bay
+- 👋 Hi, I’m @alsemangat45
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-RDP Gratis Windows Server 2019, Server US, Ram 7GB 2 Core Cpu Dengan Github:
-+ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
-+ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
-+ isi Nama: Masukan NGROK_AUTH_TOKEN
-+ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
-+ Tekan Add secret
-+ Pergi Ke Action> FreeRdp > Run workflow
-+ Refresh Web dan masuk ke FreeRdp > build
-+ Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
+<!---
+alsemangat45/alsemangat45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
